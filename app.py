@@ -6,7 +6,7 @@ import seaborn as sns
 
 # Criando um cabeçalho com texto
 st.title("Análise de Dados de Veículos")
-st.header("Este é um aplicativo simples para análise de dados de veículos.")
+st.header("Este é um aplicativo para análise de dados de veículos.")
 
 # Carregando os dados
 @st.cache
